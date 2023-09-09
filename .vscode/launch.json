@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeerecordsApplication<employeerecords>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.employeerecords.EmployeerecordsApplication",
+            "projectName": "employeerecords",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
